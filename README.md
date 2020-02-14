@@ -666,7 +666,7 @@ If you get no more messages, save the game and open the MCM.
 
 **Melee**:
 
-(Personal preference, I like to keep the camera somewhat close to the character. Try different values adn find what feels best to you!)
+(Personal preference, I like to keep the camera somewhat close to the character. Try different values and find what feels best to you!)
 
 *Positive X Offset* - `60`
 
